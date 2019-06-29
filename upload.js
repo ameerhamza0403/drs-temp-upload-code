@@ -105,13 +105,13 @@ let MyUpload=()=>{
     let count=3;
     let Initiatefire=()=>{
         var firebaseConfig = {
-            apiKey: "AIzaSyB9BeUsoAz_Z_9MM261eDUb1aXfAkRNGoU",
-            authDomain: "drsdoors-84f19.firebaseapp.com",
-            databaseURL: "https://drsdoors-84f19.firebaseio.com",
-            projectId: "drsdoors-84f19",
-            storageBucket: "drsdoors-84f19.appspot.com",
-            messagingSenderId: "890687677953",
-            appId: "1:890687677953:web:bbc3e2e75e53c6f9"
+            apiKey: "",
+            authDomain: "",
+            databaseURL: "",
+            projectId: "",
+            storageBucket: "",
+            messagingSenderId: "",
+            appId: ""
           };
           // Initialize Firebase
           firebase.initializeApp(firebaseConfig);
